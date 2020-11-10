@@ -8,7 +8,7 @@
 
 `npm install -g`
 
-## Upload The database readyassist.sql (Configire accordingly in the code)
+## Upload The database readyassist.sql (Configire as per the database in the following code)
 
 ````
 const connection = mysql.createConnection({
